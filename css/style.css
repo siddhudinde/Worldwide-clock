@@ -1,0 +1,29 @@
+html
+{
+    scroll-behavior: smooth;
+
+}
+body
+{
+    background-color: black;
+}
+@font-face
+{
+    font-family: 'Black Ops One', cursive;
+    src: url(digital.ttf);
+}
+#clock
+{
+    font-size: 180px;
+    font-family: 'Black Ops One', cursive;
+    width: 900px;
+    margin-top: 100px;
+    margin-left: 200px;
+    text-align: center;
+}
+h1{
+    font-family: 'Black Ops One', cursive;
+    text-align: center;
+    
+    
+}
